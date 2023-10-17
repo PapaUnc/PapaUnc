@@ -2,12 +2,4 @@
 
 
 
-- 👋 Hi, I’m @PapaUnc
-- 📱 I prefer learning coding via cellphone because it is more challenging
-- 🏚️ in prison 
-- 📧 info@scatterteam.com
-
-<!---
-PapaUnc/PapaUnc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&background=FFFFFF00&random=false&width=435&lines=ID-SIRTII%2FCC;INDONESIA+SECURITY+INCIDENT++RESPONSE+TEAM+ON+INTERNET+INFRASTRUCTURE+COORDINATION+CENTER" alt="Typing SVG" /></a>
